@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: beige;
+}
+header{
+    margin: 0px;
+    background-color: rgb(36, 115, 129);
+    padding: 10px 798px;
+}
+header h1{
+    color: honeydew;
+    font-size: 50px;
+}
+#clock{
+    font-size: 80px;
+}
+#date{
+    font-style: italic;
+    font-size: 40px;
+}
